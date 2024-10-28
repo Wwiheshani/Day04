@@ -1,36 +1,4 @@
 
-    p{
-        background-color: rgb(255, 6, 6); 
-        color: black; 
-        text-align: justify;
-    }
-
-    h1{
-        text-align: center; 
-        background-color: azure; 
-        color: rgb(161, 35, 35);
-        padding: 50px;
-    }
-   #sample-id-selector{
-        background-color: rgb(4, 186, 140); 
-        color: rgb(255, 255, 255); 
-        text-align: justify;
-    }
-
-    h2{
-        text-align: center; 
-        background-color: azure; 
-        color: rgb(161, 35, 35);
-    }
-
-    body{
-
-        background-image: url(img/image1.jpg);
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-    }
-
     /* ssssssssss
     dddddddddddd */
 
